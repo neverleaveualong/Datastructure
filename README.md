@@ -10,14 +10,19 @@ This repository provides a collection of data structures implemented in C++. Eac
 
 ## Data Structures Included
 
-- Arrays
-- Linked Lists
-  - Singly Linked List
-  - Doubly Linked List
-- Stacks
-- Queues
-- Trees
+- Array
+- Stack
+  - Stack using Array
+  - Stack using Linked List
+  - Applications: Calculator
+- Queue
+  - Priority Queue
+  - Circular Queue
+  - Deque
+- Hash Table
+- Union-Find
+- Tree
   - Binary Tree
   - Binary Search Tree
-  - AVL Tree
-- Graphs
+  - Balacned Binary Tree
+  - Heap
