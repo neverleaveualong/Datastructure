@@ -11,6 +11,11 @@ This repository provides a collection of data structures implemented in C++. Eac
 ## Data Structures Included
 
 - Array
+- LinkedList
+  - SinglyLinkedList
+  - DoublyLinkedList
+  - CircularSinglyLinkedList
+  - CircularDoublyLinkedList
 - Stack
   - Stack using Array
   - Stack using Linked List
